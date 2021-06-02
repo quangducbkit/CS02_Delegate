@@ -1,0 +1,16 @@
+C:\Users\ROG\Desktop\dotnet_project\CS02_Delegate\bin\Debug\net5.0\CS02_Delegate.exe
+C:\Users\ROG\Desktop\dotnet_project\CS02_Delegate\bin\Debug\net5.0\CS02_Delegate.deps.json
+C:\Users\ROG\Desktop\dotnet_project\CS02_Delegate\bin\Debug\net5.0\CS02_Delegate.runtimeconfig.json
+C:\Users\ROG\Desktop\dotnet_project\CS02_Delegate\bin\Debug\net5.0\CS02_Delegate.runtimeconfig.dev.json
+C:\Users\ROG\Desktop\dotnet_project\CS02_Delegate\bin\Debug\net5.0\CS02_Delegate.dll
+C:\Users\ROG\Desktop\dotnet_project\CS02_Delegate\bin\Debug\net5.0\ref\CS02_Delegate.dll
+C:\Users\ROG\Desktop\dotnet_project\CS02_Delegate\bin\Debug\net5.0\CS02_Delegate.pdb
+C:\Users\ROG\Desktop\dotnet_project\CS02_Delegate\obj\Debug\net5.0\CS02_Delegate.csproj.AssemblyReference.cache
+C:\Users\ROG\Desktop\dotnet_project\CS02_Delegate\obj\Debug\net5.0\CS02_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG\Desktop\dotnet_project\CS02_Delegate\obj\Debug\net5.0\CS02_Delegate.AssemblyInfoInputs.cache
+C:\Users\ROG\Desktop\dotnet_project\CS02_Delegate\obj\Debug\net5.0\CS02_Delegate.AssemblyInfo.cs
+C:\Users\ROG\Desktop\dotnet_project\CS02_Delegate\obj\Debug\net5.0\CS02_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\ROG\Desktop\dotnet_project\CS02_Delegate\obj\Debug\net5.0\CS02_Delegate.dll
+C:\Users\ROG\Desktop\dotnet_project\CS02_Delegate\obj\Debug\net5.0\ref\CS02_Delegate.dll
+C:\Users\ROG\Desktop\dotnet_project\CS02_Delegate\obj\Debug\net5.0\CS02_Delegate.pdb
+C:\Users\ROG\Desktop\dotnet_project\CS02_Delegate\obj\Debug\net5.0\CS02_Delegate.genruntimeconfig.cache

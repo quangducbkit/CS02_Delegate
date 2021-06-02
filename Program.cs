@@ -6,7 +6,10 @@ namespace CS02_Delegate
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            TestShowLogs testShowLogs = new TestShowLogs();
+            testShowLogs.Test();
+            FuncAndAction funcAndAction = new FuncAndAction();
+            funcAndAction.Test();
         }
     }
 }
