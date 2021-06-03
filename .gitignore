@@ -1,1 +1,3 @@
 build/Release
+bin/Debug
+obj/Debug
